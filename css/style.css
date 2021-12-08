@@ -1,0 +1,260 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+*{
+    text-decoration: none;
+    
+}
+
+.main-nav{
+   
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.nav-item{
+    width: 200px;
+    height: 100px;
+}
+.nav-item{
+    margin-left: 25px;
+    color: rgb(153, 57, 81);
+    font-size: 25px;
+    margin-left: 40px;
+    font: weight 300px;
+    text-transform: uppercase;
+    width: 200px;
+    height: 50px;
+    border: 1px solid rgb(153, 57, 81);
+    
+
+}
+.nav-item:hover{
+    border: 1px solid black;
+    color: black;
+    background-color: crimson;
+    
+}
+.sen-div{
+    background-color: #5f9ea0;
+    background: url('../img/contact-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+
+}
+.div-hed{
+    padding-top: 200px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+    color: black;
+   
+}
+.div-par{
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+}
+.btn-div{
+    padding-top: 100px;
+    text-align: center;
+  
+}
+.btn{
+    font-weight: 800;
+    font-size: 20px;
+    width: 200px;
+    height: 60px;
+    color: rgb(70, 20, 11);
+    border: 1px solid rgb(247, 247, 247);
+    background-color: rgb(209, 206, 206);
+}
+.btn:hover{
+   color: crimson;
+}
+.div-static{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.sta-par{
+    width: 50%;
+    color: #000;
+    background-color: white;
+    font-size: 15px;
+    text-align: left;
+    padding-top: 40px;
+    padding-left: 15px;
+}
+.sta-img{
+    width: 50%;
+    color: #000;
+    background-color: white;
+    font-size: 15px;
+    text-align: center;
+    width: 50%;
+    color: #000;
+    background-color: white;
+    font-size: 15px;
+    
+
+}
+.is-div{
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+    text-align: left;
+}
+.main-hedc{
+text-align: left;
+margin-left: 20px;
+font-size: 20px;
+padding-top: 20px;
+
+}
+.main-parc{
+    text-align: left;
+    margin-left: 15px;
+    font-size: 15px;
+}
+.main-colmn{
+    padding-bottom: 50px;
+}
+.main-btndt{
+    margin-left: 100px;
+    width: 400px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    padding-left: 150px;
+}
+.btnmv{
+    background-color: rgb(92, 90, 90);
+    width: 50%;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+   
+}
+.btnmv:hover{
+    background-color: rgb(170, 15, 88);
+    color: rgb(0, 0, 0);
+}
+
+.div-four{
+    background-color: #5f9ea0;
+    background: url('../img/hero01.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.clhedf{
+    text-align: left;
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 200px;
+    color: black;
+    text-transform: capitalize;
+}
+.isparfi{
+    text-align: left;
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 16px;
+    color: black;
+    padding-right: 900px;
+} 
+     .div-fife{
+         width: 100%;
+         height: 700px;
+        display: flex;
+         flex-direction: row;
+         background-color: rgb(158, 115, 158);
+         margin-top: 20px;
+         
+     }
+     .INP-TY{
+        width: 50%;
+        height: 700px;
+     }
+     .img-end{
+        width: 50%;
+        height: 700px;
+        margin-top: 20px;
+     }
+     .img-end{
+         display: flex;
+         flex-wrap: wrap;
+     }
+     .imend{
+         width: 200px;
+         height: 200px;
+         margin-left: 10px;
+     }
+     .hed-fiv{
+        text-align: left;
+        font-weight: 800;
+        font-size: 30px;
+        margin-left: 200px;
+        color: black;
+        text-transform: capitalize;}
+        .par-fiv{
+            text-align: left;
+            margin-left: 100px;
+            font-weight: 300;
+            font-size: 16px;
+            color: black;
+            
+        }
+        .my-p {
+            padding-top: 50px;
+            padding-left: 10px;
+        }
+        .main-inp{
+            padding-left: 10px;}
+           .main-inp,.main-inp{
+                margin-left: 20px;
+                width: 200px;
+                height: 50px;
+                background-color: blanchedalmond;
+                color: blueviolet;
+            }
+            .MEVBN{
+                margin-left: 90px;
+                width:80px;
+                height: 30px;
+                background-color: blanchedalmond;
+            }
+            .mebt{
+                
+                padding-top: 50px;
+            }
+            .azads{
+                margin-left: 10px;
+                font-family: Brush Script MT;
+                font-size: 25px;
+                font-weight: 500;
+                padding-top: 20px;
+            }
+            .my-ffot{
+                width: 100%;
+                height: 80px;
+                background-color: rgb(165, 159, 150);
+                text-align: center;
+                font-size: 30px;
+               padding-top: 20px;
+               padding-right: 30px;
+               
+               
+            }
+            
